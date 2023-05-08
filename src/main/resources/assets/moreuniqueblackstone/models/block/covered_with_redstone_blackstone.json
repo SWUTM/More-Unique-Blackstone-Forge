@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "moreuniqueblackstone:block/covered_with_redstone_blackstone"
+  }
+}

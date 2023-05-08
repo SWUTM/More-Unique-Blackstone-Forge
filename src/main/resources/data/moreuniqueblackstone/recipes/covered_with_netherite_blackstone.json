@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "moreuniqueblackstone:covered_with_netherite_blackstone"
+  },
+  "result": "minecraft:netherite_ingot",
+  "experience": 1.0,
+  "cookingtime": 200
+}

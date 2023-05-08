@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "moreuniqueblackstone:covered_with_emerald_blackstone"
+  },
+  "result": "minecraft:emerald",
+  "experience": 1.0,
+  "cookingtime": 200
+}

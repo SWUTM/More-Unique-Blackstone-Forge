@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "gold_ingot",
+  "ingredient": {
+    "item": "moreuniqueblackstone:covered_with_iron_blackstone"
+  },
+  "result": "minecraft:iron_ingot",
+  "experience": 1.0,
+  "cookingtime": 200
+}

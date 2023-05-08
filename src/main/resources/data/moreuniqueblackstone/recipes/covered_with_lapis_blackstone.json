@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "moreuniqueblackstone:covered_with_lapis_blackstone"
+  },
+  "result": "minecraft:lapis_lazuli",
+  "experience": 1.0,
+  "cookingtime": 200
+}

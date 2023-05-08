@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "moreuniqueblackstone:charred_blackstone"
+  },
+  "result": "minecraft:coal",
+  "experience": 1.0,
+  "cookingtime": 200
+}
